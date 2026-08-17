@@ -1,4 +1,4 @@
-package Behavioral.Builder;
+package Creational.Builder;
 
 public class User {
     private final String firstName;

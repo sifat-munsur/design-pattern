@@ -1,4 +1,4 @@
-package Behavioral.FactoryMethod.PizzaFactory;
+package Creational.FactoryMethod.PizzaFactory;
 
 public class ChickenPizza implements Pizza{
 

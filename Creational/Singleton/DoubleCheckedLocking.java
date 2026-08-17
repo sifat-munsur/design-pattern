@@ -1,4 +1,4 @@
-package Behavioral.Singleton;
+package Creational.Singleton;
 
 public class DoubleCheckedLocking{
     private static DoubleCheckedLocking instance;
